@@ -1,5 +1,7 @@
 body {
   font-family: Times New Roman, serif;
+  border: 1px solid powderblue;
+  padding: 30px;
 }
 
 main {
